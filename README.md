@@ -1,2 +1,2 @@
-# pkau-lab1-2020
-Szablon dla pierwszego spotkania laboratoryjnego - projekt aplikacji w języku Java
+# pkau-lab2-2020
+Szablon dla drugiego spotkania laboratoryjnego - projekt aplikacji w języku Java
